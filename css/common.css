@@ -94,3 +94,61 @@ ul {
   object-fit: cover;
   display: block;
 }
+/*task-3*/
+#name-input {
+  border: 1px solid #808080;
+  border-radius: 4px;
+  width: 360px;
+  height: 40px;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 133%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+/*task-4*/
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 250px;
+  padding: 20px;
+  border-radius: 8px;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+label {
+  display: grid;
+  gap: 5px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+}
+
+button {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 86px;
+  height: 40px;
+  background: #4e75ff;
+
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
