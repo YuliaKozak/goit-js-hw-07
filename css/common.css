@@ -152,3 +152,11 @@ button {
   letter-spacing: 0.04em;
   color: #fff;
 }
+
+/*task-5*/
+button {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 148px;
+  height: 40px;
+}
